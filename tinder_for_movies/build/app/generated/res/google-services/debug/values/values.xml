@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">359449315258</string>
+    <string name="google_api_key" translatable="false">AIzaSyAZVF5e84SgwsH6e9HTwtE6KzF2X5t60TI</string>
+    <string name="google_app_id" translatable="false">1:359449315258:android:ad0b2a34c69e7c3ab03f83</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAZVF5e84SgwsH6e9HTwtE6KzF2X5t60TI</string>
+    <string name="google_storage_bucket" translatable="false">tinderformovies-d243f.appspot.com</string>
+    <string name="project_id" translatable="false">tinderformovies-d243f</string>
+</resources>

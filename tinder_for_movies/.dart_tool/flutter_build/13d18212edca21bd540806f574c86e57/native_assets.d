@@ -1,0 +1,1 @@
+ C:\\Users\\sunka\\Downloads\\tinder_for_movies\\tinder_for_movies\\.dart_tool\\flutter_build\\13d18212edca21bd540806f574c86e57\\native_assets.yaml: 
